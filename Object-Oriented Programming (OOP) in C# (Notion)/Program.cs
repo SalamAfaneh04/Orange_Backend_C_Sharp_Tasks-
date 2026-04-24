@@ -35,7 +35,7 @@ namespace Object_Oriented_Programming__OOP__in_C___Notion_
         public string mark { set; get; }
         public int year { set; get; }
         public string type { set; get; }
-        public int price { set; get; }
+        private int price { set; get; }
         public string model { set; get; }
         public int palletNo { set; get; }
         public string color { set; get; }
